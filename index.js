@@ -1,3 +1,3 @@
-function gitConf(){
+function gitMerge(){
     alert("Hi")
 }
